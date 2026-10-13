@@ -16,7 +16,7 @@ restaurant.
 - **Address, phone, email and links** are from the restaurant's public listings and profiles and
   have not been confirmed. No opening hours are shown because the listings disagree.
 - **The map** on the home page and the Visit page is Google Maps' own embed of the restaurant's
-  listing, and it loads only if you press "Show the map"; until then nothing is requested from
+  listing, and it loads as its section approaches the viewport. Loading it requests content from
   Google. Everything inside it — the pin, the card and the rating on it — is Google's, not the
   studio's (the preview's privacy page explains).
 - **Text** is draft copy for the restaurant to review. It states no founding date, names no chef
@@ -24,23 +24,28 @@ restaurant.
 
 ## Photographs
 
-Thirty photographs appear on the preview. **None is the studio's and none has been licensed.**
+Photographs from the following sources appear on the preview. **None is the studio's and none has been licensed.**
 
 - Twenty-six come from the restaurant's gallery on its Hungry Hub listing: dishes, ingredients and
   cooking at the teppan.
 - Four come from the Ryoii review site's page for the restaurant, which credits them to Serina
   Japanese Teppanyaki's Facebook page: the dining room, the entrance and two dishes.
+- Fifteen menu photographs were added on 13 October 2026: six from Serina's official Facebook
+  posts, seven from Serina's Wongnai listing/reviews, and two stills from Luxpro.glam's Serina
+  dining video on Lemon8. Each opens with a caption, credit and source link. Full frames and
+  embedded branding are retained. The enoki image is explicitly labelled as an ingredient photo.
 
 They belong to the restaurant, the platform or their photographers, and no permission has been
 given for this use. The studio shows them, credited, so the restaurant can see its own food and
 place in the proposed design. They are not offered for reuse and will be removed on request, and
 they would be replaced by photographs the restaurant supplies before any launch.
 
-Gallery captions describe what can be seen. On the menu, nineteen dishes bring up a photograph
-when the pointer moves over them (or when their small picture is tapped). **The studio matched
-those photographs to dishes by eye, from what each one shows; the restaurant has not confirmed
-any of them**, and the menu page says so. A photograph beside a dish is not a statement of what
-is served.
+Gallery captions describe what can be seen. On the menu, 27 individual dishes and six courses
+have photographs. Source captions are used where available, with visual identification otherwise.
+**The restaurant has not confirmed these matches or current presentation and portions**, and the
+menu page says so. A photograph beside a dish is not a statement of what is currently served.
+Course popups also illustrate accompanying dishes; the starter and dessert may vary. Some
+previews show the relevant portion of a photographed set, with the original source linked.
 
 ## Taking it down
 

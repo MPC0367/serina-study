@@ -15,13 +15,14 @@ A design preview of a website for Serina Japanese Teppanyaki (9/26 Thaniya Road,
   listings. Treat them as a draft, not as current information — check with the restaurant.
 - **Nothing here calls, emails or books anything.** Phone numbers and the email address are shown
   as text. The enquiry form only writes a message for you to copy; it sends nothing. The Google
-  map loads only if you ask for it. Links to
+  map loads when its section approaches the viewport. Links to
   Google Maps, Hungry Hub, Chope, Tripadvisor, Instagram and Facebook open those services.
-- Thirty photographs of the restaurant and its food are shown, credited. They are not the
+- Photographs of the restaurant and its food are shown, credited, including 15 additional
+  menu photographs researched on 13 October 2026. They are not the
   studio's and have not been licensed — see `NOTICE.md`.
 - Not listed on search engines (`noindex`).
 
-The site is served from the `gh-pages` branch. This branch holds only this note and `NOTICE.md`;
-the source code is kept privately by the studio.
+The built preview and these notes are stored on `main` and published from `gh-pages`.
+The source code is kept privately by the studio. Updates preserve deployment history.
 
 Questions, corrections or a request to take it down: admin@o2-designstudio.com
