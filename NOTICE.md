@@ -16,7 +16,7 @@ restaurant.
 - **Address, phone, email and links** are from the restaurant's public listings and profiles and
   have not been confirmed. No opening hours are shown because the listings disagree.
 - **The map** on the home page and the Visit page is Google Maps' own embed of the restaurant's
-  listing, and it loads only if you press "Show the map"; until then nothing is requested from
+  listing, and it loads as its section approaches the viewport. Loading it requests content from
   Google. Everything inside it — the pin, the card and the rating on it — is Google's, not the
   studio's (the preview's privacy page explains).
 - **Text** is draft copy for the restaurant to review. It states no founding date, names no chef
@@ -44,6 +44,8 @@ Gallery captions describe what can be seen. On the menu, 27 individual dishes an
 have photographs. Source captions are used where available, with visual identification otherwise.
 **The restaurant has not confirmed these matches or current presentation and portions**, and the
 menu page says so. A photograph beside a dish is not a statement of what is currently served.
+Course popups also illustrate accompanying dishes; the starter and dessert may vary. Some
+previews show the relevant portion of a photographed set, with the original source linked.
 
 ## Taking it down
 
